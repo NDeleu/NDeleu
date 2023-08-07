@@ -1,7 +1,7 @@
 # Nicolas Deleu
 
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30">
-<img src="https://simpleicons.org/icons/django.svg", width="30"> ![Django Rest Framework](link_to_drf_badge) ![Github](link_to_github_badge) ![Gitlab](link_to_gitlab_badge) ![Docker](link_to_docker_badge) ![HTML](link_to_html_badge) ![CSS](link_to_css_badge) ![Bootstrap](link_to_bootstrap_badge) ![Javascript](link_to_javascript_badge) ![Sphinx](link_to_sphinx_badge) ![Postman](link_to_postman_badge) ![SQL](link_to_sql_badge) ![SQLite3](link_to_sqlite3_badge) ![MySQL](link_to_mysql_badge) ![PostgreSQL](link_to_postgresql_badge)
+<img src="https://python.doctor/images/django-python.png", width="30"> ![Django Rest Framework](link_to_drf_badge) ![Github](link_to_github_badge) ![Gitlab](link_to_gitlab_badge) ![Docker](link_to_docker_badge) ![HTML](link_to_html_badge) ![CSS](link_to_css_badge) ![Bootstrap](link_to_bootstrap_badge) ![Javascript](link_to_javascript_badge) ![Sphinx](link_to_sphinx_badge) ![Postman](link_to_postman_badge) ![SQL](link_to_sql_badge) ![SQLite3](link_to_sqlite3_badge) ![MySQL](link_to_mysql_badge) ![PostgreSQL](link_to_postgresql_badge)
 
 Issue d'une formation solide en développement d'application web (diplôme RNPC, bac+4), ma curiosité m'a amené à explorer et maîtriser divers domaines techniques. J'ai ainsi mis en place des pipelines CI/CD pour une intégration web optimale, notamment via GitLab CI/CD, et déployé des solutions web sur AWS. Mes compétences s'étendent à la containerisation avec Docker, la mise en œuvre d'API via Django Rest Framework, et la création d'applications web avec Django.
 
