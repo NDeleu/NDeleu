@@ -1,19 +1,52 @@
-# Nicolas Deleu
+# Nicolas Deleu ![Développeur Web](https://img.shields.io/badge/Développeur_Web-2C2F33?style=for-the-badge&logo=dev.to&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="30">
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="30" height="30">
-    <title>Django</title>
-    <path d="M11.146 0h3.924v18.166c-2.013.382-3.491.535-5.096.535-4.791 0-7.288-2.166-7.288-6.32 0-4.002 2.65-6.6 6.753-6.6.637 0 1.121.05 1.707.203zm0 9.143a3.894 3.894 0 00-1.325-.204c-1.988 0-3.134 1.223-3.134 3.365 0 2.09 1.096 3.236 3.109 3.236.433 0 .79-.025 1.35-.102V9.142zM21.314 6.06v9.098c0 3.134-.229 4.638-.917 5.937-.637 1.249-1.478 2.039-3.211 2.905l-3.644-1.733c1.733-.815 2.574-1.53 3.109-2.625.561-1.121.739-2.421.739-5.835V6.059h3.924zM17.39.021h3.924v4.026H17.39z"/>
-</svg>
- ![Django Rest Framework](link_to_drf_badge) ![Github](link_to_github_badge) ![Gitlab](link_to_gitlab_badge) ![Docker](link_to_docker_badge) ![HTML](link_to_html_badge) ![CSS](link_to_css_badge) ![Bootstrap](link_to_bootstrap_badge) ![Javascript](link_to_javascript_badge) ![Sphinx](link_to_sphinx_badge) ![Postman](link_to_postman_badge) ![SQL](link_to_sql_badge) ![SQLite3](link_to_sqlite3_badge) ![MySQL](link_to_mysql_badge) ![PostgreSQL](link_to_postgresql_badge)
+___________________________________________________________________________________________________________________________________________________
 
+![Formation](https://img.shields.io/badge/Formation-0077B5?style=for-the-badge&logoColor=white)
+![Expérience](https://img.shields.io/badge/Expérience-330F63?style=for-the-badge&logoColor=white)  
 Issue d'une formation solide en développement d'application web (diplôme RNPC, bac+4), ma curiosité m'a amené à explorer et maîtriser divers domaines techniques. J'ai ainsi mis en place des pipelines CI/CD pour une intégration web optimale, notamment via GitLab CI/CD, et déployé des solutions web sur AWS. Mes compétences s'étendent à la containerisation avec Docker, la mise en œuvre d'API via Django Rest Framework, et la création d'applications web avec Django.
 
+___________________________________________________________________________________________________________________________________________________
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+![Design](https://img.shields.io/badge/Design-FF4785?style=for-the-badge&logoColor=white)  
 Ma connaissance des bases de données englobe SQLite3, MySQL, et PostgreSQL, tout en étant bien versé dans le langage SQL et les ORM, notamment SQLAlchemy. Je m'assure de schématiser adéquatement mes bases de données à travers UML et ERD. Le design n'est pas en reste, grâce à ma familiarité avec Bootstrap, et des outils comme Balsamiq qui m'aident à concrétiser mes idées.
 
+___________________________________________________________________________________________________________________________________________________
+
+![Docs](https://img.shields.io/badge/Docs-092E20?style=for-the-badge&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-2CA5E0?style=for-the-badge&logoColor=white)
+![Security](https://img.shields.io/badge/Security-662C91?style=for-the-badge&logoColor=white)  
 Une bonne documentation est pour moi un impératif qui m'a conduit à travailler avec des outils tels que Sphinx, READTHEDOC et Postman. Je suis également fier des applications à interface CLI que j'ai conçues grâce aux bibliothèques Click et Rich. La performance et l'optimisation sont des aspects que je considère essentiels, m'efforçant toujours de respecter les meilleures pratiques, dont celles recommandées par l'OWASP.
 
+___________________________________________________________________________________________________________________________________________________
+
+![Library](https://img.shields.io/badge/Library-FF8800?style=for-the-badge&logoColor=white)  
 La conception de nouvelles applications me pousse toujours à approfondir ma connaissance sur les différentes bibliothèques proposées par Python, telles que request, beautifulsoup, pandas, numpy...
 
+___________________________________________________________________________________________________________________________________________________
+
+![Blog](https://img.shields.io/badge/Blog-3776AB?style=for-the-badge&logoColor=white)  
 Mais au-delà de ces compétences techniques, c'est mon amour pour le partage qui me définit le mieux. Je rédige régulièrement des articles de blog sur le langage Python, le développement web et l'intelligence artificielle, que je suis ravi de partager sur mes réseaux sociaux.
 
+___________________________________________________________________________________________________________________________________________________
+
+Technologies :
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![ReadTheDocs](https://img.shields.io/badge/ReadTheDocs-8CA1AF?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Sphinx](https://img.shields.io/badge/Sphinx-bd6231?style=for-the-badge&logo=sphinx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
