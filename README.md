@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ![Formation](https://img.shields.io/badge/Formation-0077B5?style=for-the-badge&logoColor=white)
 ![Expérience](https://img.shields.io/badge/Expérience-330F63?style=for-the-badge&logoColor=white)  
-Issue d'une formation solide en développement d'application web (diplôme RNPC, bac+4), ma curiosité m'a amené à explorer et maîtriser divers domaines techniques. J'ai ainsi mis en place des pipelines CI/CD pour une intégration web optimale, notamment via GitLab CI/CD, et déployé des solutions web sur AWS. Mes compétences s'étendent à la containerisation avec Docker, la mise en œuvre d'API via Django Rest Framework, et la création d'applications web avec Django.
+Issue d'une formation solide en développement concepteur logiciel et application web (Bac+4), ma curiosité m'a amené à explorer et maîtriser divers domaines techniques. J'ai ainsi mis en place des pipelines CI/CD pour une intégration web optimale, notamment via GitLab CI/CD, et déployé des solutions web sur AWS. Mes compétences s'étendent à la containerisation avec Docker, la mise en œuvre d'API via Django Rest Framework, et la création d'applications web avec Django.
 
 ___________________________________________________________________________________________________________________________________________________
 
