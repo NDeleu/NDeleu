@@ -26,11 +26,6 @@ La conception de nouvelles applications me pousse toujours à approfondir ma con
 
 ___________________________________________________________________________________________________________________________________________________
 
-![Blog](https://img.shields.io/badge/Blog-3776AB?style=for-the-badge&logoColor=white)  
-Mais au-delà de ces compétences techniques, c'est mon amour pour le partage qui me définit le mieux. Je rédige régulièrement des articles de blog sur le langage Python et le développement web, que je suis ravi de partager sur mes réseaux sociaux.
-
-___________________________________________________________________________________________________________________________________________________
-
 Technologies :
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
